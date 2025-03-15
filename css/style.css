@@ -50,7 +50,7 @@ html, body {
     justify-content: center;
     align-items: center;
     height: 760px;
-    background: url('https://cocole218.github.io/Exercise-2-Partial-Build/img/header.jpeg') no-repeat center;
+    background: url('../img/header.jpeg') no-repeat center;
     background-size: cover;
 }
 
